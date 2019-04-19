@@ -1,0 +1,7 @@
+LeNets
+AlexNets
+ZFNets
+
+VGGNet
+GoogleNet
+ResNet

@@ -1,0 +1,6 @@
+Classification
+Classification+Localisation
+
+Obj Detection
+
+Instance Segmentation
